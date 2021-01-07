@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Oswald', sans-serif;
+}
+.container{
+    max-width: 1170px;
+    margin: 0px auto;
+}
+h1{
+    font-size: 50px;
+    color: #ff8c8c;
+}
+h2{
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #ff8c8c;
+}
+p{
+    color: #696969;
+    margin-bottom: 15px;
+}
+.menu-bar{
+    
+}
+section{
+    height: 500px;
+    margin-bottom: 50px;
+    display: block;
+    overflow: hidden;
+}
+.highlight{
+    color: #dd2828;
+}
+
+.link-button{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffff;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, #ffc107, #de4226);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.content{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2% ;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+.content{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2% ;
+}
+.content img{
+    height: 500px;
+    width: 500px;
+}
+.work-title{
+    text-align: center;
+    margin: 0;
+    font-size: 42px;
+    padding-bottom: 60px;
+}
+.work-card{
+    padding: 100px 0;
+}
+.card-color{
+    background-color: #F8F9FC;
+}
+.p-work{
+    width: 344px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 11px;
+    float: left;
+    box-shadow: 0 7px 15px rgb(0 0 0 / 15%);
+}
+.p-work img{
+    width: 343px;
+    height: 213px;
+    margin-bottom: 10px;
+}
+.p-work h2{
+    color: #5a5959;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+}
+.work-inquiry{
+    background-image: url("images/work\ 2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 906px;
+    height: 225px;
+    margin: auto;
+    padding: 80px 60px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+.half-text{
+    float: left;
+    margin: 76px 130px;
+}
+.half-text h3{
+    font-size: 50px;
+    font-family: 'Oswald';
+    color: #fff;
+    text-transform: uppercase;
+}
+.half-button {
+    float: right;
+    margin: 104px;
+}
+.fot-txt{
+    text-align: center;
+}
+.Copyright{
+    color: #ff8c8c;
+}
